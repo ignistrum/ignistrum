@@ -110,7 +110,7 @@
     <td><code>ignistrum</code></td>
   </tr>
    <tr>
-      <td><img src="phpkXK09k.png" width="16" /> Chess.com</td>
+      <td><img src="phpkXK09k.png" width="16" height="16" /> Chess.com</td>
       <td><a href="https://chess.com/member/IgnistrumChess">IgnistrumChess</a></td>
    </tr>
 </table>
