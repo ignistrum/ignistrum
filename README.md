@@ -109,6 +109,10 @@
     <td><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/discord.svg" width="16" /> Discord</td>
     <td><code>ignistrum</code></td>
   </tr>
+   <tr>
+      <td><img src="https://cdn.brandfetch.io/id3xkMkAED/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="16"</td>
+      <td><a href="https://chess.com/member/IgnistrumChess">IgnistrumChess</a></td>
+   </tr>
 </table>
 
 
