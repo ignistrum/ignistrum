@@ -110,7 +110,7 @@
     <td><code>ignistrum</code></td>
   </tr>
    <tr>
-      <td><img src="https://cdn.brandfetch.io/id3xkMkAED/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="19" /> Chess.com</td>
+      <td><img src="https://cdn.brandfetch.io/id3xkMkAED/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="20" /> Chess.com</td>
       <td><a href="https://chess.com/member/IgnistrumChess">IgnistrumChess</a></td>
    </tr>
 </table>
