@@ -111,9 +111,10 @@
 
 ---
 
+### The reason to my success 👇
 
 <p align="center">
-  <img src="https://img.intercomm.in/434i4c.png" width="120" alt="bot I made long ago"/>
+  <img src="https://en.wikipedia.org/wiki/Ramanuja#/media/File:Statue_of_Equality_(Ramanuja).jpg" width="120" alt="Ramanujacharya"/>
 </p>
 
 </details>
