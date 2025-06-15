@@ -106,7 +106,7 @@
   </tr>
 </table>
 
----
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> `#` Github Stats </b>
 <br>
 
@@ -121,7 +121,7 @@
 
 
 
-<h2><code>#</code> The reason behind my success</h2>
+<h2><code>#</code> The reason behind my success:</h2>
 
 ### Ramanujacharya
 
