@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=violet&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8806CE&width=435&lines=Hii!+Welcome+to+my+GitHub+Page!;I'm+a+small+developer+who+likes+chocolate+%3A3;Do+you+have+some+chocolate%3F;Or+maybe+I+can+give+you+some+debugging+headaches+to+share!;Who doesn't like coding?; But the debugging...; 🤯" alt="Typing SVG" /></a>
 </p>
 
 </div>
@@ -54,6 +54,12 @@
 <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"></a><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> 
 
 ---
+
+## `#` Achievements
+<div>
+  <img src="
+</div>
+
 
 ## `#` Skillset
 
@@ -110,6 +116,8 @@
 
 
 ---
+
+
 
 ## `#` The reason behind my success
 
