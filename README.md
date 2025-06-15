@@ -56,7 +56,7 @@
 ## `#` Skillset
 
 <div>
-  <img src="https://img.shields.io/badge/English-clear,%20sharp,%20formal,%20understandable%20useful-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/English-clear,%20sharp,%20formal,%20understandable%20and%20useful-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-indentation,%20debugging,%20best%20syntax%20of%20all,%20headaches-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS-try%20and%20catch,%20good%20syntax,%20braces%20ftw-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-return%20a%20%3F%3F%20b%3B%20🧠🧠,%20language%20for%20babies,%20just%20why%3F-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
