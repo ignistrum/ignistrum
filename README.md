@@ -1,6 +1,6 @@
 <div align="center">
 
-## `#` </ignistrum>
+## </ignistrum>
 
 </div>
 
@@ -68,7 +68,7 @@
 ## `#` Mood
 
 <p align="center">
-  <img src="https://tenor.com/view/monk-adrian-monk-monk-sick-sick-monk-in-bed-gif-23263765" width="400" alt="IT'S OFF CENTER"/>
+  <img src="https://media1.tenor.com/m/pLsP25o3zmgAAAAd/monk-adrian-monk.gif" width="400" alt="IT'S OFF CENTER"/>
 </p>
 
 ---
