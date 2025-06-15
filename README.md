@@ -60,7 +60,8 @@
   <img src="https://img.shields.io/badge/Python-indentation,%20debugging,%20best%20syntax%20of%20all,%20headaches-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS-try%20and%20catch,%20good%20syntax,%20braces%20ftw-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-return%20a%20%3F%3F%20b%3B%20🧠🧠,%20language%20for%20babies,%20just%20why%3F-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/HTML-a%20nobody%20without%20css,h1%2C%20h2%2C%20h3%2C%20h4%20and%20h5%20🤡-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-jacked%20asf,feels%20to%20good%20to%20be%20true-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
 </div>
 
 ---
