@@ -13,7 +13,7 @@
 
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=25&pause=800&color=8806CE&width=435&lines=Hii!+Welcome+to+my+GitHub+page!;I+make+mostly+AI+applications;Do+you+have+any+code+snippets%3F;Or+maybe+I+can+share+some;debugging+headaches%20%3ADD;Who+doesn't+like+coding%3F;Screw+debugging;Bython+FTW!" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=25&pause=800&color=8806CE&width=435&lines=Hii!+Welcome+to+my+GitHub+page!;I+make+mostly+AI+applications;Do+you+have+any+code+snippets%3F;Or+maybe+I+can+share+some?;Debugging+headaches%20%3AD;Who+doesn't+like+coding%3F;Screw+debugging;Bython+FTW!" alt="Typing SVG" /></a>
 </p>
 
 
