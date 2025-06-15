@@ -1,6 +1,12 @@
 <div align="center">
 
-<div id="header" align="center">
+<style>
+  #header {
+    font-size: 36px;
+    text-align: center;
+  }
+</style>
+<div id="header">
   <code>#</code> <strong>I'm &lt;/ignistrum&gt;!</strong>
 </div>
 
