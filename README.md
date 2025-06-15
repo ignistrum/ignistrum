@@ -53,13 +53,16 @@
 
 </div>
 
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"></a><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> 
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"></a><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a>
+
+## `#` Discord Status
+<a href="https://discord.com/channels/@me/1334113063821115392"> <img src="[https://discord.c99.nl/widget/theme-2/755297485328482356.png](https://discord.c99.nl/widget/theme-3/1334113063821115392.png)" alt="Discord Status">
 
 ---
 
 ## `#` Achievements
 <div>
-  <img src="
+  <img src=">
 </div>
 
 
