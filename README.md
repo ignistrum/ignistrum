@@ -81,7 +81,7 @@
   <br>
   <img src="https://img.shields.io/badge/HTML-a%20nobody%20without%20css,%20h1%2C%20h2%2C%20h3%2C%20h4%20and%20h5%20🤡-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/CSS-jacked%20asf,%20feels%20to%20good%20to%20be%20true-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-jacked%20asf,%20feels%20too%20good%20to%20be%20true-10B981?style=for-the-badge&labelColor=1E293B&logo=markdown&logoColor=white"/>
   <br>
 </div>
 
@@ -110,7 +110,7 @@
     <td><code>ignistrum</code></td>
   </tr>
    <tr>
-      <td><img src="" /> Chess.com</td>
+      <td><img src="phpkXK09k.png" /> Chess.com</td>
       <td><a href="https://chess.com/member/IgnistrumChess">IgnistrumChess</a></td>
    </tr>
 </table>
