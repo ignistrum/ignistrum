@@ -111,13 +111,12 @@
 
 ---
 
-### The reason to my success 👇
+## `#` The reason behind my success
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Statue_of_Equality_%28Ramanuja%29.jpg/800px-Statue_of_Equality_%28Ramanuja%29.jpg" width="120" alt="Ramanujacharya"/>
-</p>
+# https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Statue_of_Equality_%28Ramanuja%29.jpg/800px-Statue_of_Equality_%28Ramanuja%29.jpg
 
-</details>
+
+
 
 
 
