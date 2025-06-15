@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8806CE&width=435&lines=Hii!+Welcome+to+my+GitHub+Page!;I'm+a+small+developer+who+likes+chocolate+%3A3;Do+you+have+some+chocolate%3F;Or+maybe+I+can+give+you+some+debugging+headaches+to+share!;Who doesn't like coding?; But the debugging...; 🤯" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8806CE&width=435&lines=Hii!+Welcome+to+my+GitHub+Page!;I'm+a+small+developer+who+likes+chocolate+%3A3;Do+you+have+some+chocolate%3F;Or+maybe+I+can+give+you+some+debugging+headaches+to+share!;Who doesn't like coding?; But the debugging..." alt="Typing SVG" /></a>
 </p>
 
 </div>
