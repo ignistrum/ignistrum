@@ -114,7 +114,7 @@
 ### The reason to my success 👇
 
 <p align="center">
-  <img src="https://en.wikipedia.org/wiki/Ramanuja#/media/File:Statue_of_Equality_(Ramanuja).jpg" width="120" alt="Ramanujacharya"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Statue_of_Equality_%28Ramanuja%29.jpg/800px-Statue_of_Equality_%28Ramanuja%29.jpg" width="120" alt="Ramanujacharya"/>
 </p>
 
 </details>
