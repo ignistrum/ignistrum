@@ -11,9 +11,11 @@
 <div style="flex: 1; min-width: 280px;">
 
 
+
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=600&pause=1000&color=8806CE&width=435&lines=Hii!+Welcome+to+my+GitHub+page!;I'm+a+small+developer+who+loves+coding!;Do+you+have+any+code+snippets+to+fix%3F;Or+maybe+I+can+share+some+debugging+headaches+with+you+%3AD;Who+doesn't+like+coding%3F;Screw+debugging;Bython+FTW)](https://git.io/typing-svg)
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=200&size=600&pause=1000&color=8806CE&width=435&lines=Hii!+Welcome+to+my+GitHub+page!;I'm+a+small+developer+who+loves+coding!;Do+you+have+any+code+snippets+to+fix%3F;Or+maybe+I+can+share+some+debugging+headaches+with+you+%3AD;Who+doesn't+like+coding%3F;Screw+debugging;Bython+ftw" alt="Typing SVG" /></a>
 </p>
+
 
 </div>
 
