@@ -74,11 +74,14 @@
 
 ---
 
-## `#` Mood
+## `#` Personality
+
+### IT'S OFF CENTER!!! Now I'm gonna have to replace it again...
 
 <p align="center">
   <img src="https://media1.tenor.com/m/pLsP25o3zmgAAAAd/monk-adrian-monk.gif" width="400" alt="IT'S OFF CENTER"/>
 </p>
+
 
 ---
   
