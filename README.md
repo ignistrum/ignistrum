@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
+    [![HitCount](https://hits.dwyl.com/ignistrum/ignistrum.svg?style=flat-square)](http://hits.dwyl.com/ignistrum/ignistrum)
   </tr>
 </table>
 </div>
