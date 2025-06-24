@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hii! I'm **&lt;/ignistrum&gt;!**
+
+<h1 align="center"><strong>Hii! I'm **&lt;/ignistrum&gt;!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
 
@@ -16,7 +17,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=25&pause=800&color=8806CE&width=435&lines=;I+make+mostly+AI+applications;Do+you+have+any+code+snippets%3F;Or+maybe+I+can+share+some?;Debugging+headaches%20%3AD;Who+doesn't+like+coding%3F;Screw+debugging;Bython+FTW!" alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center">𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
 
 <div align="center">
 <table>
